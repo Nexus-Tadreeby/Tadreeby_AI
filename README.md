@@ -7,13 +7,12 @@
 **Team Leader:** Shahd Abu Sharif
 
 **Team Members:**
-
-* Deema Abd Alhady – UX/UI Designer
-* Afnan Kullab – FrontEnd Developer
-* Shahd Abu Sharif – BackEnd Developer
-* Maryam Thabet – QA Engineer
-* Shahd Al Mobayed – Mobile Developer
-* Marah Abu Abdo – AI Engineer
+- [Deema Abd Alhady](https://github.com/Deemaabdalhady) – UX/UI Designer
+- [Afnan Kullab](https://github.com/afnankullab-dev) – FrontEnd Developer
+- [Shahd Abu Sharif](https://github.com/shahd-abu-sharif) – BackEnd Developer
+- [Maryam Thabet](https://github.com/Mariam-Adnan-5) – QA Engineer
+- [Shahd Al Mobayed](https://github.com/shahedeyadalmobayed2004) – Mobile Developer
+- [Marah Abu Abdo](https://github.com/MarahAboAbdo) – AI Engineer
 
 ---
 
@@ -29,12 +28,12 @@ The module provides evaluation support, internship recommendations, automated re
 
 Current internship and field training systems lack intelligent support and automation:
 
-* Student evaluations are often manual and subjective
-* Students receive limited guidance when selecting internships
-* Reporting processes are time-consuming and inconsistent
-* Important deadlines and milestones may be missed
-* Stakeholders lack analytics and actionable insights
-* Decision-making is based on limited data visibility
+- Student evaluations are often manual and subjective
+- Students receive limited guidance when selecting internships
+- Reporting processes are time-consuming and inconsistent
+- Important deadlines and milestones may be missed
+- Stakeholders lack analytics and actionable insights
+- Decision-making is based on limited data visibility
 
 ---
 
@@ -44,52 +43,47 @@ The AI Module enhances Tadreeby by providing intelligent services that support a
 
 It enables:
 
-* Automated evaluation assistance
-* Personalized internship recommendations
-* Smart reminders and notifications
-* Automated report generation
-* Analytics and performance insights
-* Data-driven decision support
+- Automated evaluation assistance
+- Personalized internship recommendations
+- Smart reminders and notifications
+- Automated report generation
+- Analytics and performance insights
+- Data-driven decision support
 
 ---
 
 ## Key Features
 
 ### Evaluation System
-
-* Student performance assessment
-* Evaluation score generation
-* Performance trend analysis
-* Feedback summarization
+- Student performance assessment
+- Evaluation score generation
+- Performance trend analysis
+- Feedback summarization
 
 ### Recommendation System
-
-* Internship recommendations
-* Student-opportunity matching
-* Skill-based suggestions
-* Personalized recommendations
+- Internship recommendations
+- Student-opportunity matching
+- Skill-based suggestions
+- Personalized recommendations
 
 ### Reminder System
-
-* Application deadline reminders
-* Evaluation submission reminders
-* Training milestone notifications
-* Progress follow-up alerts
+- Application deadline reminders
+- Evaluation submission reminders
+- Training milestone notifications
+- Progress follow-up alerts
 
 ### Report Generation
-
-* Student progress reports
-* Internship evaluation reports
-* Company feedback reports
-* University supervision reports
+- Student progress reports
+- Internship evaluation reports
+- Company feedback reports
+- University supervision reports
 
 ### Analytics Dashboard Support
-
-* Student performance analytics
-* Internship statistics
-* Evaluation insights
-* Training progress metrics
-* System-wide analytics
+- Student performance analytics
+- Internship statistics
+- Evaluation insights
+- Training progress metrics
+- System-wide analytics
 
 ---
 
@@ -99,35 +93,35 @@ The AI Module is designed as a separate intelligent service that integrates with
 
 The module focuses on:
 
-* Data analysis and processing
-* Recommendation generation
-* Evaluation support
-* Report generation
-* Analytics and insights
-* Scalable AI architecture
+- Data analysis and processing
+- Recommendation generation
+- Evaluation support
+- Report generation
+- Analytics and insights
+- Scalable AI architecture
 
 ---
 
 ## Core Modules
 
-* Evaluation Engine
-* Recommendation Engine
-* Reminder Engine
-* Report Generation Engine
-* Analytics Engine
-* AI Integration Layer
+- Evaluation Engine
+- Recommendation Engine
+- Reminder Engine
+- Report Generation Engine
+- Analytics Engine
+- AI Integration Layer
 
 ---
 
 ## Tech Stack for AI Module
 
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
-* FastAPI
-* Matplotlib
-* Plotly
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- FastAPI
+- Matplotlib
+- Plotly
 
 ---
 
