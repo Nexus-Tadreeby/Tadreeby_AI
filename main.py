@@ -62,7 +62,7 @@ def home():
     }
 
 
-@app.post("/market-trends")
+@app.post("/ai/market-trend")
 def market_trends(data: dict):
 
     students = data.get("students", [])
