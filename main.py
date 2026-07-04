@@ -7,19 +7,26 @@ app = FastAPI(
     version="1.0"
 )
 
-
 def extract_skills(items, key):
 
     skills = []
 
     for item in items:
-        skills.extend([
-            s.strip().lower()
-            for s in item.get(key, "").split(";")
-            if s.strip()
-        ])
+
+        value = item.get(key, "")
+
+        if isinstance(value, list):
+            skills.extend([v.lower() for v in value])
+
+        else:
+            skills.extend([
+                s.strip().lower()
+                for s in value.split(";")
+                if s.strip()
+            ])
 
     return skills
+
 
 def categorize(skills_list):
 
@@ -54,12 +61,14 @@ def categorize(skills_list):
     return result
 
 
+
 @app.get("/")
 def home():
 
     return {
         "message": "Market Trends API is running"
     }
+
 
 
 @app.post("/ai/market-trend")
